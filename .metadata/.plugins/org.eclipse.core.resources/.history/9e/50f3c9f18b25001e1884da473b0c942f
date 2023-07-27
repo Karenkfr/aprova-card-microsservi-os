@@ -1,0 +1,5 @@
+package io.github.microsservicos.msclientes.application;
+
+public class ClienteService {
+
+}

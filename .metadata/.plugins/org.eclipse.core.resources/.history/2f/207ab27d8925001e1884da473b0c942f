@@ -1,0 +1,5 @@
+package io.github.microsservicos.msclientes.infra.repository;
+
+public interface ClienteRepository {
+
+}

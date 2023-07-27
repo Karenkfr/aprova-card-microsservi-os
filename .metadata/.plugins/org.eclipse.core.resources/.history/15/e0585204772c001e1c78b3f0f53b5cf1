@@ -1,0 +1,5 @@
+package io.github.microsservicos.mscartoes.application.representation;
+
+public class CartoesPorClienteResponse {
+
+}
